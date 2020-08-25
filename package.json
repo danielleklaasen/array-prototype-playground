@@ -1,0 +1,19 @@
+{
+  "name": "array-prototype-playground",
+  "version": "1.0.0",
+  "description": "A playground to try out inherited methods from the Array prototype chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielleklaasen/array-prototype-playground.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielleklaasen/array-prototype-playground/issues"
+  },
+  "homepage": "https://github.com/danielleklaasen/array-prototype-playground#readme"
+}
